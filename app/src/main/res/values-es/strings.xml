@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_label">Ingresa tu nombre completo</string>
+    <string name="name_error">El nombre debe tener al menos 3 caracteres.</string>
+    <string name="email_label">Ingresa tu correo</string>
+    <string name="email_error">El correo no es válido.</string>
+    <string name="password_label">Ingresa tu contraseña</string>
+    <string name="password_error">La contraseña debe tener al menos 6 caracteres.</string>
+    <string name="password_confirm_label">Confirma tu contraseña</string>
+    <string name="password_confirm_error">Las contraseñas no coinciden.</string>
+    <string name="brand_name_label">Ingresa el nombre de la marca</string>
+    <string name="brand_name_error">El nombre de la marca no puede estar vacío.</string>
+    <string name="brand_image_url_label">Ingresa la URL de la imagen de la marca</string>
+    <string name="image_url_error">La URL de la imagen no es valida.</string>
+    <string name="type_name_label">Ingresa el nombre del tipo</string>
+    <string name="type_name_error">El nombre del tipo no puede estar vacío.</string>
+    <string name="type_image_url_label">Ingresa la URL de la imagen del tipo</string>
+    <string name="type_image_url_error">La URL de la imagen no es valida.</string>
+    <string name="status_name_label">Ingresa el nombre del estado</string>
+    <string name="status_name_error">El nombre del estaodno puede estar vacío.</string>
+    <string name="status_color_label">Selecciona el color del estado</string>
+    <string name="element_name_label">Ingresa el nombre del elemento</string>
+    <string name="element_name_error">El nombre del elemento no puede estar vacío.</string>
+    <string name="element_serial_label">Ingresa el serial del elemento (opcional)</string>
+    <string name="element_location_label">Ingresa la ubicación del elemento</string>
+    <string name="element_location_error">La ubicación del elemento no puede estar vacía.</string>
+    <string name="element_status_label">Selecciona el estado del elemento</string>
+    <string name="element_type_label">Selecciona el tipo del elemento</string>
+    <string name="element_brand_label">Selecciona la marca del elemento</string>
+
+    <string name="cancel_button_text">Cancelar</string>
+    <string name="save_button_text">Guardar</string>
+    <string name="update_button_text">Actualizar</string>
+    <string name="add_button_text">Agregar</string>
+
+    <string name="error_network_title">Error de red</string>
+    <string name="error_network_message">No se pudo conectar a la red. Por favor, verifica tu conexión e inténtalo de nuevo.</string>
+    <string name="error_unknown_title">Error desconocido</string>
+    <string name="error_unknown_message">Ha ocurrido un error desconocido. Por favor, inténtalo de nuevo más tarde.</string>
+
+    <string name="login_welcome">¡Bienvenido de nuevo!</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="login_no_account_text">¿No tienes una cuenta?</string>
+    <string name="login_register_button_text">Crea una aquí</string>
+    <string name="login_forgot_password_text">¿Olvidaste tu contraseña?</string>
+    <string name="login_error_invalid_credentials_title">Credenciales inválidas</string>
+    <string name="login_error_invalid_credentials_message">El correo o la contraseña son incorrectos. Por favor, inténtalo de nuevo.</string>
+
+    <string name="register_welcome">¿Eres nuevo?</string>
+    <string name="register_title">Crea una cuenta</string>
+    <string name="register_button_text">Crear cuenta</string>
+    <string name="register_error_user_already_exists_title">El usuario ya existe</string>
+    <string name="register_error_user_already_exists_message">Ya hay una cuenta asociada con este mismo correo. Por favor, intenta iniciar sesión.</string>
+    <string name="register_already_have_account_text">¿Ya tienes una cuenta?</string>
+    <string name="register_login_button_text">Inicia sesión aquí</string>
+
+    <string name="home_title">Inicio</string>
+    <string name="home_message">Selecciona algún tipo, marca o estado para filtrar los elementos.</string>
+    <string name="home_last_month_updated_elements_title">Elementos actualizados este mes</string>
+    <string name="home_last_month_updated_elements_empty">No hay elementos actualizados este mes</string>
+    <string name="registered_brands_title">Marcas registradas</string>
+    <string name="registered_brand_title">No hay marcas registradas</string>
+    <string name="home_add_brand_button_text">Agregar marca</string>
+    <string name="registered_types_title">Tipos registrados</string>
+    <string name="registered_types_empty">No hay tipos registrados</string>
+    <string name="home_add_type_button_text">Agregar tipo</string>
+    <string name="registered_statuses_title">Estados registrados</string>
+    <string name="registered_statuses_empty">No hay estados registrados</string>
+    <string name="home_add_statuses_button_text">Agregar estado</string>
+
+    <string name="add_element_title">Agregar elemento</string>
+
+    <string name="add_brand_title">Agregar marca</string>
+
+    <string name="add_type_title">Agregar tipo</string>
+
+    <string name="add_status_title">Agregar estado</string>
+
+    <string name="element_detail_title">Detalles del elemento</string>
+    <string name="element_detail_name">Nombre</string>
+    <string name="element_detail_serial">Serial</string>
+    <string name="element_detail_location">Ubicación</string>
+    <string name="element_detail_last_update_date">Última actualización</string>
+    <string name="element_detail_status">Estado</string>
+    <string name="element_detail_type">Tipo</string>
+    <string name="element_detail_brand">Marca</string>
+    <string name="element_detail_status_history">Historial de estados</string>
+
+    <string name="update_element_status_title">Actualizar estado</string>
+    <string name="update_element_status_current_status">Estado actual</string>
+    <string name="update_element_status_new_status">Nuevo estado</string>
+
+    <string name="element_list_title">Elementos</string>
+    <string name="element_list_no_elements">No hay elementos</string>
+    <string name="element_list_add_element_button_text">Agregar elemento</string>
+    <string name="element_list_filtering_by">Filtrando por</string>
+
+    <string name="image_title">Imagen</string>
+    <string name="image_source_url">Ingresar URL</string>
+    <string name="image_source_upload">Subir imagen</string>
+</resources>

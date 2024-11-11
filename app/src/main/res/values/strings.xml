@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name" translatable="false">IEFJT</string>
+
+    <string name="name_label">Enter your full name</string>
+    <string name="name_error">The name must be at least 3 characters.</string>
+    <string name="email_label">Enter your email</string>
+    <string name="email_error">The email is invalid.</string>
+    <string name="password_label">Enter your password</string>
+    <string name="password_error">The password must be at least 6 characters.</string>
+    <string name="password_confirm_label">Confirm your password</string>
+    <string name="password_confirm_error">The passwords do not match.</string>
+    <string name="brand_name_label">Enter the brand name</string>
+    <string name="brand_name_error">The brand name cannot be empty.</string>
+    <string name="brand_image_url_label">Enter the URL of the brand image</string>
+    <string name="image_url_error">The image URL is not valid.</string>
+    <string name="type_name_label">Enter the type name</string>
+    <string name="type_name_error">The type name cannot be empty.</string>
+    <string name="type_image_url_label">Enter the URL of the type image</string>
+    <string name="type_image_url_error">The image URL is not valid.</string>
+    <string name="status_name_label">Enter the status name</string>
+    <string name="status_name_error">The status name cannot be empty.</string>
+    <string name="status_color_label">Select the status color</string>
+    <string name="element_name_label">Enter the element name</string>
+    <string name="element_name_error">The element name cannot be empty.</string>
+    <string name="element_serial_label">Enter the element serial (optional)</string>
+    <string name="element_location_label">Enter the location of the element</string>
+    <string name="element_location_error">The element location cannot be empty.</string>
+    <string name="element_status_label">Select the element status</string>
+    <string name="element_type_label">Select the type of the element</string>
+    <string name="element_brand_label">Select the element brand</string>
+
+    <string name="cancel_button_text">Cancel</string>
+    <string name="save_button_text">Save</string>
+    <string name="update_button_text">Update</string>
+    <string name="add_button_text">Add</string>
+
+    <string name="error_network_title">Network error</string>
+    <string name="error_network_message">Could not connect to the network. Please check your connection and try again.</string>
+    <string name="error_unknown_title">Unknown error</string>
+    <string name="error_unknown_message">An unknown error has occurred. Please try again later.</string>
+
+    <string name="login_welcome">Welcome back!</string>
+    <string name="login_title">Login</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_no_account_text">Don\'t have an account?</string>
+    <string name="login_register_button_text">Create one here</string>
+    <string name="login_forgot_password_text">Forgot your password?</string>
+    <string name="login_error_invalid_credentials_title">Invalid credentials</string>
+    <string name="login_error_invalid_credentials_message">The email or password is incorrect. Please try again.</string>
+
+    <string name="register_welcome">Ready to get started?</string>
+    <string name="register_title">Create an account</string>
+    <string name="register_button_text">Create account</string>
+    <string name="register_error_user_already_exists_title">User already exists</string>
+    <string name="register_error_user_already_exists_message">There is already an account associated with this same email. Please try to log in.</string>
+    <string name="register_already_have_account_text">Do you already have an account?</string>
+    <string name="register_login_button_text">Login here</string>
+
+    <string name="home_title">Home</string>
+    <string name="home_message">Select some type, brand or state to filter the items.</string>
+    <string name="home_last_month_updated_elements_title">Elements updated this month</string>
+    <string name="home_last_month_updated_elements_empty">No items updated this month</string>
+    <string name="registered_brands_title">Registered brands</string>
+    <string name="registered_brand_title">No registered brands</string>
+    <string name="home_add_brand_button_text">Add brand</string>
+    <string name="registered_types_title">Registered Types</string>
+    <string name="registered_types_empty">No registered types</string>
+    <string name="home_add_type_button_text">Add type</string>
+    <string name="registered_statuses_title">Registered Statuses</string>
+    <string name="registered_statuses_empty">No registered statuses</string>
+    <string name="home_add_statuses_button_text">Add status</string>
+
+    <string name="add_element_title">Add element</string>
+
+    <string name="add_brand_title">Add brand</string>
+
+    <string name="add_type_title">Add type</string>
+
+    <string name="add_status_title">Add status</string>
+
+    <string name="element_detail_title">Element details</string>
+    <string name="element_detail_name">Name</string>
+    <string name="element_detail_serial">Serial</string>
+    <string name="element_detail_location">Location</string>
+    <string name="element_detail_last_update_date">Last update</string>
+    <string name="element_detail_status">Status</string>
+    <string name="element_detail_type">Type</string>
+    <string name="element_detail_brand">Brand</string>
+    <string name="element_detail_status_history">Status history</string>
+
+    <string name="update_element_status_title">Update status</string>
+    <string name="update_element_status_current_status">Current status</string>
+    <string name="update_element_status_new_status">New status</string>
+
+    <string name="element_list_title">Elements</string>
+    <string name="element_list_no_elements">No elements</string>
+    <string name="element_list_add_element_button_text">Add element</string>
+    <string name="element_list_filtering_by">Filtering by</string>
+
+    <string name="image_title">Image</string>
+    <string name="image_source_url">Enter URL</string>
+    <string name="image_source_upload">Upload image</string>
+</resources>
